@@ -15,7 +15,7 @@ To use Sealed Secrets, you must first install the controller on your Kubernetes 
 
 This command creates a Sealed Secrets controller and a secret key for decryption within the kube-system namespace.
 
-#### Step 2: Install Kubeseal on Your Local Machine
+#### Step 2: Install Kubeseal on Your Local Machine to run the Kubeseal command and encrypt the secrets
 
 Install the Kubeseal CLI tool on your local machine using the following commands:
 
